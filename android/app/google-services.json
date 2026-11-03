@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564818834961",
+    "project_id": "autumn-product-manager-mustafa",
+    "storage_bucket": "autumn-product-manager-mustafa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564818834961:android:7a076d5d021005c291e3b0",
+        "android_client_info": {
+          "package_name": "com.example.autumn_product_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLePyiqJKvgzgRSVtNF1uvaM8MhsALFP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
